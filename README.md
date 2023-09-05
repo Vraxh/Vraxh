@@ -5,7 +5,7 @@ public class Info {
 
     public static void main(String[] args) {
 
-        String name = "Nico"; //some friends call me vraxh
+        String name = "Nico"; //some friends call me "vraxh"
         String[] code = {"Java", "Python"}; //currently much more java
         String[] tools = {"Maven", "Hibernate", "Docker", "VSCode", "Trello"};
         String[] databases = {"MySql", "sqlite"};
