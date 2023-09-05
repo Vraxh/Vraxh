@@ -12,7 +12,7 @@ public class Info {
         AboutMe myInfo = new AboutMe(name, code, tools, databases);
 
         System.out.println("Personal Information:");
-        myInfo.mostrarInformacion();
+        myInfo.showInfo();
     }
 }
 ```
