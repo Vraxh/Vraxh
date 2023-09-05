@@ -1,4 +1,4 @@
-### Hi, i'm Nicolás Barroso 👋🏻
+### Hi, I'm Nicolás Barroso 👋🏻
 
 ```java
 public class Info {
