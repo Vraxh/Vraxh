@@ -7,7 +7,7 @@ public class Info {
 
         String name = "Nico"; //some friends call me "vraxh"
         String[] code = {"Java", "Python"}; //currently much more Java
-        String[] tools = {"Maven", "Hibernate", "Docker", "VSCode", "Trello"};
+        String[] tools = {"Maven", "Spring" ,"Spring boot" ,"Spring data", "Hibernate", "Docker", "VSCode"};
         String[] databases = {"MySql", "sqlite"};
 
         AboutMe myInfo = new AboutMe(name, code, tools, databases);
