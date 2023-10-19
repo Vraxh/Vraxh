@@ -26,7 +26,7 @@
 
 - **Languages**:
 
-	[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=java,Python,C&perline=3)](https://skillicons.dev)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
