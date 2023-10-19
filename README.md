@@ -42,7 +42,7 @@
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,maven,docker&perline=5)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,maven,docker,postman&perline=6)](https://skillicons.dev)
 
 <br>
 
