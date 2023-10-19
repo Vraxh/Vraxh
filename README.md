@@ -24,7 +24,7 @@
 
 - **Languages**:
 
-	[![My Skills](https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgres,vscode,git,github,maven,docker,postman&perline=3)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgres,vscode,git,github,maven,docker,postman&perline=20)](https://skillicons.dev)
     
 
 <br>
