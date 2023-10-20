@@ -18,7 +18,7 @@
 <br>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Side Projec**
+- 🔭 I’m currently working on **Side Project**
 
 - 🌱 I’m currently learning **Spring REST API and Batch Application**
 
