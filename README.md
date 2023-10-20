@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Nico </b></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=1%+better+every+day..<3;++Back-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Nicolas+Barroso;++Back-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=1%+better+every+day..<3;++Back-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;++Back-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,"></a>
 </p>
 
 
