@@ -1,13 +1,10 @@
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Nicolas+Barroso;++Back-End+Developer;1%+better+every+day...<3"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A265F7&random=false&width=435&lines=Hi%2C+I'm+Nicolas+Barroso;Back-End+developer;1%25+better+every+day...%3C3" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;++Active+Learner/Researcher;coder+lover+</>"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A265F7&random=false&width=435&lines=Software+Engineer+Student;Active+Learner%2FResearcher;coder+lover+%7B...%7D" alt="Typing SVG" /></a>
 </p>
-
-
-
 <br>
 
 
