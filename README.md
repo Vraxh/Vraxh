@@ -1,12 +1,12 @@
 <br>
 <p align="center">
     <a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A265F7&random=false&width=435&lines=Hi%2C+I'm+Nicolas+Barroso;Back-End+developer;1%25+better+every+day...%3C3"
+            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A265F7&random=false&width=435&lines=Hi%2C+I'm+Nicolas+Barroso;Full-Stack+Developer;1%25+better+every+day...%3C3"
             alt="Typing SVG" /></a>
 </p>
 <p align="center">
     <a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A265F7&random=false&width=435&lines=Software+Engineer+Student;Active+Learner%2FResearcher;coder+lover+%7B...%7D"
+            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A265F7&random=false&width=435&lines=Software+Back-End+Student;Active+Learner%2FResearcher;coder+lover+%7B...%7D"
             alt="Typing SVG" /></a>
 </p>
 <br>
