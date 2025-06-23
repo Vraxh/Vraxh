@@ -34,7 +34,7 @@
 
 <p align="center">
 
-[![MySkills](https://skillicons.dev/icons?i=css,javascript,react,nodejs,sql,postman&perline=20)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,postman&perline=20)](https://skillicons.dev)
 </p>
 <br>
 <br>
