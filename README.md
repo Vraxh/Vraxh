@@ -19,9 +19,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Side Project**
 
-- 🌱 I’m currently learning **Spring REST API and Batch Application**
-
-- 💬 Ask me about **Java, Spring, Spring Boot, Maven, MySql**
+- 🌱 I’m currently learning **CSS, JavaScript, React, NodeJS, SQL**
 
 - 📫 Feel free to reach me out **barrosownicolas@gmail.com**
 
@@ -36,7 +34,7 @@
 
 <p align="center">
 
-[![MySkills](https://skillicons.dev/icons?i=java,spring,kubernetes,hibernate,maven,gradle,python,c,mysql,postgres,vscode,git,github,docker,postman&perline=20)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=css,javascript,react,nodejs,sql,postman&perline=20)](https://skillicons.dev)
 </p>
 <br>
 <br>
